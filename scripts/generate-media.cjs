@@ -4,7 +4,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const MEDIA_DIR = path.resolve(__dirname, '../files');// your local cloned folder
-const CDN_BASE  = 'https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files';
+const CDN_BASE  = 'https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files';
 
 (async () => {
   console.log('📂  Scanning:', MEDIA_DIR);

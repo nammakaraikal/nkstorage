@@ -2,31 +2,31 @@
   {
     "type": "image",
     "title": "promo1",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo1.jpeg"
+    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files/promo1.jpeg"
   },
   {
     "type": "image",
     "title": "promo2",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo2.png"
+    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files/promo2.png"
   },
   {
     "type": "image",
     "title": "promo3",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo3.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files/promo3.jpg"
   },
   {
     "type": "image",
     "title": "promo4",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo4.jpg"
+    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files/promo4.jpg"
   },
   {
     "type": "image",
     "title": "promo5",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo5.png"
+    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files/promo5.png"
   },
   {
     "type": "image",
     "title": "promo6",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo6.png"
+    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@main/files/promo6.png"
   }
 ]
