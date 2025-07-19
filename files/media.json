@@ -1,10 +1,5 @@
 [
   {
-    "type": "video",
-    "title": "0713",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/0713.mp4"
-  },
-  {
     "type": "image",
     "title": "promo1",
     "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo1.jpeg"
@@ -33,10 +28,5 @@
     "type": "image",
     "title": "promo6",
     "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/promo6.png"
-  },
-  {
-    "type": "video",
-    "title": "tikit promo2",
-    "url": "https://cdn.jsdelivr.net/gh/nammakaraikal/nkstorage@v1.0/files/tikit-promo2.mp4"
   }
 ]
